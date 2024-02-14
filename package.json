@@ -1,0 +1,13 @@
+{
+    "name": "test-server",
+    "version": "1.0.0",
+    "description": "A simple Node.js server example",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "http": "^0.0.1"
+    }
+  }
+  
